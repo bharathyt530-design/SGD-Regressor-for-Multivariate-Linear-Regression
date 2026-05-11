@@ -11,11 +11,17 @@ To write a program to predict the price of the house and number of occupants in 
 1.Start 
 
 2.Data preparation
+
 3.Hypothesisb Definition
+
 4.Cost Function
+
 5.Parameter Update Rule
+
 6.Iterative Traning
+
 7.Model Evalution
+
 8.End
 
 ## Program:
