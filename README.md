@@ -8,7 +8,8 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Start  
+1.Start 
+
 2.Data preparation
 3.Hypothesisb Definition
 4.Cost Function
